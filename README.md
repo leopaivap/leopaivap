@@ -16,6 +16,7 @@
    <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
   <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
   <img align="center" alt="-Python" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
   <img align="center" alt="-Php" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
    <img align="center" alt="-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
