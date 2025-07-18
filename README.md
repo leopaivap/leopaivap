@@ -32,9 +32,9 @@ I enjoy building real-world applications that solve problems and improve lives.
 
 ### 📌 Featured Projects
 
-🔹 [**Budget Tracker**](https://www.linkedin.com/feed/update/urn:li:activity:7278467960573218816/) – Flutter + Spring Boot app for managing personal finances
-🔹 [**ReactGram**](https://github.com/leopaivap/reactgram) – A photo-sharing social network built with React and Node.js  
-🔹 [**Obj TEA Chatbot**](https://github.com/leopaivap/chatbot-objs-tea) – An intelligent chatbot built with Gemini API + Python + React, focused on educational tools for children with autism
+ - [**Budget Tracker**](https://www.linkedin.com/feed/update/urn:li:activity:7278467960573218816/) – Flutter + Spring Boot app for managing personal finances
+ - [**ReactGram**](https://github.com/leopaivap/reactgram) – A photo-sharing social network built with React and Node.js  
+ - [**Obj TEA Chatbot**](https://github.com/leopaivap/chatbot-objs-tea) – An intelligent chatbot built with Gemini API + Python + React, focused on educational tools for children with autism
 
 ##
 
