@@ -1,42 +1,72 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c2484&height=180&section=header&text=Leonardo+Paiva&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4c2484&height=180&section=header&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello!;Be+Welcome++:%29)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=Olá,+sou+Leonardo!+Seja+bem-vindo(a)+👋;Hi,+I'm+Leonardo!+Welcome+👋>)](https://git.io/typing-svg)
 
-  ##
-<div align="center"> 
-  <h3 align="left">Git Stats</h3>
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=leopaivap&show_icons=true&count_private=true&hide_border=true&title_color=823cd6&icon_color=823cd6&text_color=ffffff&bg_color=0d1117" alt="leopaivap's github stats" /> 
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopaivap&layout=compact&hide_border=true&title_color=823cd6&text_color=ffffff&bg_color=0d1117" />
-</div>
+##
 
-  ##
-<div style="display: inline_block">
-  <h3>Languages</h3>
-  <img align="center" alt="PureC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-   <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
-  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
-  <img align="center" alt="-Python" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
-  <img align="center" alt="-Php" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-   <img align="center" alt="-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-</div>
+### 👋 About Me
 
-  ##
-<div align="left" >
-  <h3>Contact</h3>
-  <a href="https://instagram.com/leopaivap" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:paivaleo7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/leonardopaiva12/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+Hi! I'm Leonardo, a passionate full-stack developer in the making.  
+I enjoy building real-world applications that solve problems and improve lives.
+
+- 🎓 Studying Information Systems
+- 💻 Currently learning **React** and **Docker**
+- 🧰 Tech stack includes **Flutter**, **Spring Boot**, **Java** and more
+- 🏋️‍♂️ I also enjoy working out and tracking progress — in code and in life!
+
+##
+
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="ts"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
 </div>
 
 ##
+
+### 📌 Featured Projects
+
+🔹 [**Budget Tracker**](https://www.linkedin.com/feed/update/urn:li:activity:7278467960573218816/) – Flutter + Spring Boot app for managing personal finances
+🔹 [**ReactGram**](https://github.com/leopaivap/reactgram) – A photo-sharing social network built with React and Node.js  
+🔹 [**Obj TEA Chatbot**](https://github.com/leopaivap/chatbot-objs-tea) – An intelligent chatbot built with Gemini API + Python + React, focused on educational tools for children with autism
+
+##
+
 <div align="center">
-  
- ![Snake animation](https://github.com/leopaivap/leopaivap/blob/output/github-contribution-grid-snake.svg)
-  
+
+<img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=leopaivap&show_icons=true&count_private=true&hide_border=true&title_color=823cd6&icon_color=823cd6&text_color=ffffff&bg_color=0d1117" />
+<img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopaivap&layout=compact&hide_border=true&title_color=823cd6&text_color=ffffff&bg_color=0d1117" />
+
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c2484&height=150&section=footer"/>
+##
+
+### 📬 Contact
+
+<div align="center">
+  
+<a href="mailto:dev.leonardopaiva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/leonardopaiva12/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/leopaivap" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+</div>
+
+##
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leopaivap/leopaivap/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leopaivap/leopaivap/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/leopaivap/leopaivap/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4c2484&height=150&section=footer"/>
