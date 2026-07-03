@@ -4,28 +4,36 @@
 
 ##
 
+<p align="center">
+  🚀 AI Engineer • Full Stack Developer • B.Sc. in Information Systems
+</p>
+
 ### 👋 About Me
 
-Hi! I'm Leonardo, a passionate full-stack developer in the making.  
-I enjoy building real-world applications that solve problems and improve lives.
+Hi! I'm Leonardo, a **Full Stack Developer** and **AI Engineer** from Brazil.
 
-- 🎓 Studying Information Systems
-- 💻 Currently learning **React** and **Docker**
-- 🧰 Tech stack includes **Flutter**, **Spring Boot**, **Java** and more
-- 🏋️‍♂️ I also enjoy working out and tracking progress — in code and in life!
+I build scalable applications and AI-powered solutions using Python, LangGraph, FastAPI, React and cloud technologies. I enjoy designing software architectures, integrating LLMs and creating products that solve real business problems.
+
+- 🎓 B.Sc. in Information Systems – IFSULDEMINAS
+- 🤖 AI Engineer focused on Multi-Agent Systems & LLM Applications
+- 💻 Full Stack Developer with Python, Java, React and Flutter
+- ☁️ Experience with GCP, Docker, Cloud Run and CI/CD
+- 🚀 Always learning and building new things
 
 ##
 
 ### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="ts"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" height="42" alt="LangGraph"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker"/>
 </div>
 
 ##
@@ -38,24 +46,21 @@ I enjoy building real-world applications that solve problems and improve lives.
 
 ##
 
-<div align="center">
-
-<img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=leopaivap&show_icons=true&count_private=true&hide_border=true&title_color=823cd6&icon_color=823cd6&text_color=ffffff&bg_color=0d1117" />
-<img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopaivap&layout=compact&hide_border=true&title_color=823cd6&text_color=ffffff&bg_color=0d1117" />
-
-</div>
-
-##
-
 ### 📬 Contact
 
-<div align="center">
-  
-<a href="mailto:dev.leonardopaiva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/leonardopaiva12/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/leopaivap" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<p align="center">
+  <a href="https://leonardo-paiva-kohl.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 
-</div>
+  <a href="https://linkedin.com/in/leonardopaiva12">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:dev.leonardopaiva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ##
 
